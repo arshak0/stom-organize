@@ -1,0 +1,13 @@
+.header_image {
+  height: 60px;
+  padding: 5px;
+  will-change: filter;
+  transition: filter 300ms;
+  width: 60px;
+}
+.header_image:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.header_image.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}

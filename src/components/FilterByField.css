@@ -1,0 +1,18 @@
+.fieldByFilter {
+    background: none;
+}
+
+.activeFilterByField {
+    background: #00ca00;
+    color: #ffffff;
+}
+
+.fieldByFilterFirst {
+    border-top-left-radius: 26px;
+    border-bottom-left-radius: 26px
+}
+
+.fieldByFilterLast {
+    border-top-right-radius: 26px;
+    border-bottom-right-radius: 26px
+}
