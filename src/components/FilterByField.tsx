@@ -14,7 +14,7 @@ import clsx from 'clsx'
         <Box sx={{cursor: 'pointer'}}>
           <Typography
               sx={{padding: '12px 24px'}}
-              onClick={handleFilterClick} variant="h5"
+              onClick={handleFilterClick}
               variant="subtitle1"
               className={
                 clsx(
